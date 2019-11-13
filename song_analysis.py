@@ -29,6 +29,7 @@ from reportlab.lib import colors
 #
 # plt.rcParams['figure.figsize'] = 3.5, 3.
 
+print('test')
 
 def main():
     script = sys.argv[0]
